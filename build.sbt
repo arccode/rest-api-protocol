@@ -1,6 +1,6 @@
 name := "rest-api-protocol"
 
-version := "0.0.1"
+version := "0.0.2"
 
 organization := "net.arccode"
 

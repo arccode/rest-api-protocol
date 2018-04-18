@@ -1,4 +1,4 @@
-package net.arccode.protocol.scalaremote
+package net.arccode.protocol.remote
 
 /**
   * 区域信息协议
