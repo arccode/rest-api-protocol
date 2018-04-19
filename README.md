@@ -23,4 +23,6 @@
 	* 文档消息: XXXMsg, 例如: SelectLocationsByParentCodeMsg
 
 
-	
+## 发布构件
+
+详见: [发布Scala构件至Maven中央库](http://www.arccode.net/publish-scala-artifact-to-maven-central-repository.html)
